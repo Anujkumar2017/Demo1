@@ -1,1 +1,5 @@
-console.log("hi");
+function getMessage() {
+    console.log("hi");
+}
+
+getMessage();
