@@ -11,3 +11,9 @@ function getDetails(){
 }
 
 getDetails();
+
+function second(){
+    console.log("Second function");
+}
+
+second();
